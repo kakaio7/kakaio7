@@ -7,7 +7,7 @@ estudando desenvolvimento de sitemas💻
 - Aprendendo o básico de desenvolvimento de sitemas e aprendendo a evoluir cada vez mais e me dedicando todos os dias
 - Gosto de jogar videogame e passo muita raiva,também gosto de jogar basquete e andar por aí😎
 - E pretendo ter um futuro bem promissor
-- E estudo na EEEp Deputado Roberto Mesquita📖
+- E estudo na EEEP Deputado Roberto Mesquita📖
 
 ### Objetivos Pro Futuro
 - Pretendo ser um desenvolvedor de sistemas futuramente e dar muito orgulho aos meus pais
