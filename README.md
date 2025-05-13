@@ -14,3 +14,9 @@ Estou estudando desenvolvimento de sitemas💻
 - E se der certo quero ser o homem aranha🕷🕸
 - E quero ganhar um notebook para jogar todos os jogos da minha infancia que eu tanto sonhava em jogar🎮
 <img align="right" height="250" src="https://preview.redd.it/fx57vd0sjbr91.png?auto=webp&s=1c8252c18cd77dac486f73f1863660ee7b098381"/>
+
+### Jogos que eu gosto
+- Fortnite
+- Minecraft
+- Pokemon
+- Spider Man 2
