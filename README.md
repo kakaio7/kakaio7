@@ -25,3 +25,4 @@ Estou estudando desenvolvimento de sitemas💻
 - DBC Warriors
 
 ### Aprendendo
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPqPt2XgjFUOQzzAVMLoAqq3wUX9Vl9ND8NcHfw5k_srIZkPKb7xk_FXUNw&s
