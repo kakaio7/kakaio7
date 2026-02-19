@@ -23,3 +23,6 @@ Estou estudando desenvolvimento de sitemas💻
 - Dragon Ball 
 - Marvel Rivals
 - DBC Warriors
+
+### Aprendendo
+https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg
