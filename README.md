@@ -25,4 +25,3 @@ Estou estudando desenvolvimento de sitemas💻
 - DBC Warriors
 
 ### Aprendendo
-https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg
