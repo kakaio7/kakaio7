@@ -1,28 +1,100 @@
-### Eae eu sou Kauã!
-Estou estudando desenvolvimento de sitemas💻
+<div align="center">
 
-<img align="right" src="https://i.pinimg.com/originals/ce/5c/25/ce5c25657e09e8f817d996dc36ddeed5.gif"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e62429,100:1e3c72&height=200&section=header&text=Kauã&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=60&descSize=20" width="100%"/>
 
-### Sobre mim😀  
-- Aprendendo o básico de desenvolvimento de sitemas e aprendendo a evoluir cada vez mais e me dedicando todos os dias👍
-- Gosto de jogar videogame e passo muita raiva,também gosto de jogar basquete e andar por aí😎
-- Pretendo ter um futuro bem promissor💪🏆
-- Estudo na EEEP Deputado Roberto Mesquita📖
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Kau%C3%A3;Futuro+Desenvolvedor+de+Sistemas;Aprendendo+e+evoluindo+todos+os+dias" alt="Texto animado" />
 
-### Objetivos Pro Futuro
-- Pretendo ser um desenvolvedor de sistemas futuramente e dar muito orgulho aos meus pais👨‍💻
-- Se der certo quero ser o homem aranha🕷🕸
-- Quero ganhar um notebook para jogar todos os jogos da minha infancia que eu tanto sonhava em jogar🎮
-<img align="right" height="250" src="https://preview.redd.it/fx57vd0sjbr91.png?auto=webp&s=1c8252c18cd77dac486f73f1863660ee7b098381"/>
+<br/>
 
-### Jogos que eu gosto😐
-- Fortnite
-- Minecraft
-- Pokemon
-- Spider Man 2
-- Dragon Ball 
-- Marvel Rivals
-- DBC Warriors
+![Status](https://img.shields.io/badge/status-aprendendo-brightgreen?style=for-the-badge)
+![Foco](https://img.shields.io/badge/foco-desenvolvimento%20de%20sistemas-1e3c72?style=for-the-badge)
+![Escola](https://img.shields.io/badge/escola-EEEP%20Deputado%20Roberto%20Mesquita-e62429?style=for-the-badge)
 
-### Aprendendo
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPqPt2XgjFUOQzzAVMLoAqq3wUX9Vl9ND8NcHfw5k_srIZkPKb7xk_FXUNw&s"/>
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+<img align="right" width="260" src="https://i.pinimg.com/originals/ce/5c/25/ce5c25657e09e8f817d996dc36ddeed5.gif"/>
+
+- 🎓 Estudante da **EEEP Deputado Roberto Mesquita**
+- 💻 Aprendendo as bases do desenvolvimento de sistemas e me dedicando todos os dias
+- 🎮 Gamer nas horas vagas (e sim, passo raiva jogando 😅)
+- 🏀 Gosto de jogar basquete e de sair por aí
+- 🚀 Construindo um futuro promissor, passo a passo
+
+<br/>
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 📚 Estudando atualmente
+
+- 🌐 **HTML**
+- 🎨 **CSS**
+- ⚡ **JavaScript**
+- ⚛️ **React**
+- 🧩 **POO** (Programação Orientada a Objetos)
+
+---
+
+## 🎯 Objetivos para o futuro
+
+| Objetivo | Status |
+|---|---|
+| 👨‍💻 Me tornar desenvolvedor de sistemas | 🔄 Em andamento |
+| 👨‍👩‍👦 Dar muito orgulho aos meus pais | 💪 Sempre |
+| 🎓 Cursar Engenharia de Software na faculdade em Quixadá | 🎯 Meta |
+| 🕷️ Ser o Homem-Aranha (se der certo) | 😄 Em análise |
+
+---
+
+## 🎮 Jogos que eu curto
+
+<div align="center">
+
+![Fortnite](https://img.shields.io/badge/Fortnite-9d4dff?style=for-the-badge&logo=epicgames&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62b47a?style=for-the-badge&logo=minecraft&logoColor=white)
+![Pokémon](https://img.shields.io/badge/Pok%C3%A9mon-ffcb05?style=for-the-badge&logoColor=black&labelColor=3b4cca)
+![Spider-Man 2](https://img.shields.io/badge/Spider--Man%202-e62429?style=for-the-badge)
+![Dragon Ball](https://img.shields.io/badge/Dragon%20Ball-ff9800?style=for-the-badge)
+![Marvel Rivals](https://img.shields.io/badge/Marvel%20Rivals-1e3c72?style=for-the-badge)
+![DBC Warriors](https://img.shields.io/badge/DBC%20Warriors-f57c00?style=for-the-badge)
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kakaio7&theme=tokyonight&hide_border=true&locale=pt_BR" />
+
+</div>
+
+---
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kakaio7)
+
+<br/>
+
+*"Grandes poderes trazem grandes responsabilidades."* 🕷️
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:e62429&height=100&section=footer" width="100%"/>
+
+</div>
