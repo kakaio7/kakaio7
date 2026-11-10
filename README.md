@@ -16,15 +16,11 @@
 
 ## 👨‍💻 Sobre mim
 
-<img align="right" width="260" src="https://i.pinimg.com/originals/ce/5c/25/ce5c25657e09e8f817d996dc36ddeed5.gif"/>
-
 - 🎓 Estudante da **EEEP Deputado Roberto Mesquita**
 - 💻 Aprendendo as bases do desenvolvimento de sistemas e me dedicando todos os dias
 - 🎮 Gamer nas horas vagas (e sim, passo raiva jogando 😅)
 - 🏀 Gosto de jogar basquete e de sair por aí
 - 🚀 Construindo um futuro promissor, passo a passo
-
-<br/>
 
 ---
 
